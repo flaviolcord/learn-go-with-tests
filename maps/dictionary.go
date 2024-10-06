@@ -68,5 +68,4 @@ func (d Dictionary) Search(key string) (string, error) {
 }
 
 func main() {
-  
 }
